@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ToDoList",
+    "\\ToDoList\\ToDoList",
+    "\\ToDoList\\ToDoList\\Extensions",
+    "\\ToDoList\\ToDoList\\Helpers",
+    "\\ToDoList\\ToDoList\\Views",
+    "\\ToDoList\\ToDoList\\Views\\Home",
+    "\\ToDoList\\ToDoList\\Views\\Shared",
+    "\\ToDoList\\ToDoList\\wwwroot",
+    "\\ToDoList\\ToDoList\\wwwroot\\css"
   ],
+  "SelectedNode": "\\ToDoList\\ToDoList\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
